@@ -76,7 +76,7 @@ const Dashboard: React.FC = () => {
                   alt={repository.owner.login}/>
   
                   <div>
-                      <strong>{repository.owner.login}</strong>
+                      <strong>{repository.full_name}</strong>
                       <p>{repository.description}</p>
                   </div>
   
