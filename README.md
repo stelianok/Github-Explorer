@@ -4,8 +4,13 @@
 ## About
 
 Github explorer is a React.js application that can be used to explore information about repositories available on github.
+This project was developed to learn more about React.js and Typescript.
 
+## Screenshots
 
+![GithubExplorerMain](/screenshots/GihubExplorerMain.png?raw=true "Main page")
+
+![GithubExplorerRepo](/screenshots/GithubExplorerRepo.png?raw=true "Dashboard")
 
 ## Available Scripts
 
